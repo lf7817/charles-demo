@@ -1,6 +1,7 @@
 {
   "name": "charles-demo",
   "private": false,
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
